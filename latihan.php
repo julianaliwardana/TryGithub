@@ -12,21 +12,15 @@
     <h1>Selamat datang di BNCC</h1>
 
     <?php
+
+    echo "Hello World";
+
     $a = 5;
     $b = 10;
-
-    // echo $a + $b . "<br>";
-    // echo $a - $b . "<br>";
-    // echo $a * $b . "<br>";
-    // echo $a / $b . "<br>";
-    // echo $a ** $b . "<br>";
 
     // echo $a + $b;
 
     // echo $b;
-
-    // $kata1 = "Hello World!";
-    // $kata2 = "hello world!";
 
     // echo strlen($kata1) . "<br>";
     // echo str_word_count($kata1) . "<br>";
